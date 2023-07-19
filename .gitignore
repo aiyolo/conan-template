@@ -42,6 +42,7 @@ build/
 # xemacs temporary files
 *.flc
 
+CMakeUserPresets.json
 # Vim temporary files
 .*.swp
 
